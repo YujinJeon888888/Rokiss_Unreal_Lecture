@@ -9,12 +9,14 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"Engine",
+				"CoreUObject"
 			]
 		},
 		{
 			"Name": "MyProjectEditor",
 			"Type": "Runtime",
+			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"Engine"
 			]
