@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/DevMap.umap",
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/Maps/DevMap.umap",
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/Blueprints/BP_Plane.uasset",
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/Blueprints/BP_Gameinstance.uasset",
+				"C:/Users/swu/Documents/Unreal Projects/Rokiss_Unreal_Lecture/SpeedCoding/Content/Blueprints/BP_Fire.uasset"
+			]
+		}
+	]
+}
